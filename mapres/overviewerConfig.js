@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1630025637",
+        "cacheTag": "1636149826",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,16 +41,16 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "catcity map v0.2",
+            "name": "catserver map",
             "zoomLevels": 22,
-            "defaultZoom": 6,
+            "defaultZoom": 1,
             "maxZoom": 22,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1630022154,
-            "imgextension": "png",
+            "last_rendertime": 1636146902,
+            "imgextension": "jpg",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
